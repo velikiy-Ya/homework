@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+table {
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+
+td,
+th,
+caption {
+  border: 2px solid black;
+  padding: 3px;
+  font-weight: 500;
+}
+caption {
+  border-bottom: none;
+}
+th,
+caption {
+  font-weight: 700;
+}
+.red {
+  color: red;
+}
