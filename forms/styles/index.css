@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  margin: 9px 0;
+}
+
+form {
+  max-width: 450px;
+  padding: 0;
+}
+
+fieldset {
+  border-radius: 5px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  border-radius: 5px;
+  padding: 10px 5px;
+  margin-bottom: 12px;
+  min-width: 350px;
+}
+
+textarea {
+  max-height: 200px;
+  border-radius: 5px;
+  min-width: 350px;
+  min-height: 50px;
+}
+
+.checkbox {
+  margin: 10px 0 0;
+}
+.rulle {
+  min-width: 0;
+}
+button {
+  padding: 4px 10px;
+}
